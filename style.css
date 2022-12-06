@@ -10,11 +10,12 @@ img {
 
 .mapadiv{
     width: 90%;
+  position: relative;
     stroke-width: 0.5px;
 }
 .parque {
   position: absolute;
-  top: 393px;
+  top: 453px;
   left: 140px;
   width: 40px;
   height: 50px;
