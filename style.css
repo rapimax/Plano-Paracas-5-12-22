@@ -10,7 +10,7 @@ img {
 
 .mapadiv{
     width: 90%;
-  position: relative;
+    position: auto;
     stroke-width: 0.5px;
 }
 .parque {
